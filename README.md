@@ -1,0 +1,1 @@
+# HackerRank_SQL_Basic_Skill_Certification_test_solutions

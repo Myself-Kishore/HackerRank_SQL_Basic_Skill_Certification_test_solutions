@@ -17,7 +17,7 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/5add35e
 
 "As of now, two questions are asked, and the solutions to these questions are also provided."
 ## Programs / Questions
-- [Student Analysis](student-analysis.sql)
+- [Student Analysis](student-analysis.sql) 
 - [Country Codes](country-codes.sql)
 -  [Student Advisor](student-advisor.sql)
 -  [Profitable Stocks](profitable-stocks.sql)

@@ -24,7 +24,7 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/5add35e
 -  [Merit Rewards](merit_rewards.sql)
 
 
-## New Questions?
+## New Questions ?
 If any new questions comes other than these, make sure to create PR/Issue.
 
 Will be adding SQL Advanced Questions soon in separate repo.
